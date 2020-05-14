@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMvcDotnetavecVSCommunity", "WebMvcDotnetavecVSCommunity\WebMvcDotnetavecVSCommunity.csproj", "{50DD1025-DDC9-4659-B73B-3809988CC098}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemples", "Exemples", "{D4A6CF6A-37BD-4C87-ADD4-5193720C564E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jeudontonestlehéros.WEB.UI", "Jeudontonestlehéros.WEB.UI\Jeudontonestlehéros.WEB.UI.csproj", "{48BD3D85-7894-4597-9AD0-C574C2D2529A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DD1025-DDC9-4659-B73B-3809988CC098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DD1025-DDC9-4659-B73B-3809988CC098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DD1025-DDC9-4659-B73B-3809988CC098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DD1025-DDC9-4659-B73B-3809988CC098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50DD1025-DDC9-4659-B73B-3809988CC098} = {D4A6CF6A-37BD-4C87-ADD4-5193720C564E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB8469A6-E72D-4DBD-AFCA-95C98DAC3533}
+	EndGlobalSection
+EndGlobal
