@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemples", "Exemples", "{D4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jeudontonestlehéros.WEB.UI", "Jeudontonestlehéros.WEB.UI\Jeudontonestlehéros.WEB.UI.csproj", "{48BD3D85-7894-4597-9AD0-C574C2D2529A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouverteForEach", "DecouverteForEach\DecouverteForEach.csproj", "{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48BD3D85-7894-4597-9AD0-C574C2D2529A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{50DD1025-DDC9-4659-B73B-3809988CC098} = {D4A6CF6A-37BD-4C87-ADD4-5193720C564E}
+		{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6} = {D4A6CF6A-37BD-4C87-ADD4-5193720C564E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FB8469A6-E72D-4DBD-AFCA-95C98DAC3533}
