@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jeudontonestlehéros.WEB.UI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecouverteForEach", "DecouverteForEach\DecouverteForEach.csproj", "{5FCF1CB5-A045-4133-8DFD-7D8DB49C91E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeudontonestleheros.Core.Data", "jeudontonestleheros.Core.Data\jeudontonestleheros.Core.Data.csproj", "{83ED0C02-6A24-469A-8C61-11BF572F8EF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jeudontonestleheros.Core.Data", "jeudontonestleheros.Core.Data\jeudontonestleheros.Core.Data.csproj", "{83ED0C02-6A24-469A-8C61-11BF572F8EF6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{6A19030D-4F7A-4F47-A3AB-0A1E203221C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeudontonestleheros.BackOffice.Web.UI", "jeudontonestleheros.BackOffice.Web.UI\jeudontonestleheros.BackOffice.Web.UI.csproj", "{650D7D6A-944C-4B49-BE70-644BC2936484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{83ED0C02-6A24-469A-8C61-11BF572F8EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83ED0C02-6A24-469A-8C61-11BF572F8EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83ED0C02-6A24-469A-8C61-11BF572F8EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650D7D6A-944C-4B49-BE70-644BC2936484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650D7D6A-944C-4B49-BE70-644BC2936484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650D7D6A-944C-4B49-BE70-644BC2936484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650D7D6A-944C-4B49-BE70-644BC2936484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
